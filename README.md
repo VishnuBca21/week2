@@ -1,6 +1,6 @@
-#Moving Ball
+# Moving Ball
 
-#Step to Run the Project
+## Step to Run the Project
 
 step 1: Refresh the page to run the project.
 
